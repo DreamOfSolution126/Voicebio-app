@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "voicebio-app",
+    "slug": "voicebio-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "voicebio-app"
+}
